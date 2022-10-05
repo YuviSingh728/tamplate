@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* overflow: hidden; */
+}
+
+
+.main{
+    width: 100vw;
+    height: auto;
+    background-color: rgb(109, 221, 221);
+    overflow: hidden;
+
+
+}
+.navbar-nav{
+    text-align: right;
+}
+.navbar-nav a{
+    background-color: white;
+border-radius: 10px;
+text-align: center;
+box-shadow: 0 0 15px black;
+}
+.navbar-brand h6{
+    padding-left: 60px;
+    margin-top: -10px;
+    font-size: 0.8rem;
+}
+.back{
+    background-color: rgb(109, 221, 221);
+    /* background-color: rgb(190, 150, 98); */
+}
+.code{
+    width: 97vw;
+    margin: 0% auto;
+    margin-top: 5%;
+    overflow: hidden;
+
+    background-color: aqua;
+}
+
+.code img{
+    width: 30vw;
+    height: auto;
+    border-radius: 10px;
+    margin: 5%  auto;
+    box-shadow: 0 0 10px black;
+}
+.footer{
+    width: 97vw;
+    margin:  0 auto;
+    overflow: hidden;
+
+}
+.footer h4{
+    text-align: center;
+    margin: 2% auto;
+    padding-top: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.footer ul li{
+    list-style-type: none;
+    cursor: pointer;
+    display: inline;
+    padding: 0px 20px;
+}
+.location{
+    width: 98vw;
+    margin: 0 auto;
+    overflow: hidden;
+
+}
+.location h4{
+    width: 97vw;
+    margin-left: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.location h6{
+    /* width: 97vw; */
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-left: 50px;
+    text-align: center;
+}
+
+
